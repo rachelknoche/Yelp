@@ -37,7 +37,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
     I know this is not an acceptable submission, but somehow in the past couple hours I managed to back myself up to barely past where I started, but I now can't even get anything to show on the simulator. I tried to use the source control inside of xcode as opposed to connecting it with github and that was a bad decision because I must have done it the wrong way. I will try to work on this app and get it to some sort of working order, but I have hit the point where it is not possible with the time I have remaining.
 ## License
 
